@@ -182,7 +182,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-Made with ❤️ by **Dolph**
+Made with ❤️ by **ADITYA DUBEY**
 
 ---
 
